@@ -1,0 +1,55 @@
+_repo: The-Thirty-Nine-Steps_558
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Buchan, John
+    alias: Tweedsmuir, John Buchan, Baron
+    birthdate: 1875
+    deathdate: 1940
+    gutenberg_agent_id: '285'
+    url: http://www.gutenberg.org/2009/agents/285
+    wikipedia: http://en.wikipedia.org/wiki/John_Buchan,_1st_Baron_Tweedsmuir
+description: "The Thirty-Nine Steps is an adventure novel by the Scottish author John\
+  \ Buchan. It first appeared as a serial in Blackwood's Magazine in August and September\
+  \ 1915 before being published in book form in October that year by William Blackwood\
+  \ and Sons, Edinburgh. It is the first of five novels featuring Richard Hannay,\
+  \ an all-action hero with a stiff upper lip and a miraculous knack for getting himself\
+  \ out of sticky situations.\nThe novel formed the basis for a number of film adaptations,\
+  \ notably: Alfred Hitchcock's 1935 version; a 1959 colour remake; a 1978 version\
+  \ which is perhaps most faithful to the novel; and a 2008 version for British television.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Mystery Fiction
+- Movie Books
+- Adventure
+gutenberg_issued: '1996-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '558'
+  wikidata: Q2609365
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Hannay, Richard (Fictitious character) -- Fiction'
+- !lcsh 'Spy stories'
+- !lcsh 'Intelligence service -- Great Britain -- Fiction'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- GITenberg
+title: The Thirty-Nine Steps
+url: http://www.gutenberg.org/ebooks/558
+wikipedia:
+- https://fr.wikipedia.org/wiki/Les_39_Marches_(roman)
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%AF%D8%B1%D8%AC%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%B3%D8%B9_%D9%88%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D9%88%D9%86
+- https://zh.wikipedia.org/wiki/%E4%B8%89%E5%8D%81%E4%B9%9D%E7%B4%9A%E8%87%BA%E9%9A%8E
+- https://ja.wikipedia.org/wiki/%E4%B8%89%E5%8D%81%E4%B9%9D%E9%9A%8E%E6%AE%B5
+- https://fa.wikipedia.org/wiki/%D8%B3%DB%8C_%D9%88_%D9%86%D9%87_%D9%BE%D9%84%D9%87
+- https://de.wikipedia.org/wiki/Die_neununddrei%C3%9Fig_Stufen
+- https://en.wikipedia.org/wiki/The_Thirty-Nine_Steps
+- https://it.wikipedia.org/wiki/I_trentanove_scalini
+- https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B4%E0%B8%9A%E0%B9%80%E0%B8%81%E0%B9%89%E0%B8%B2%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AA%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD
+- https://sh.wikipedia.org/wiki/The_Thirty-Nine_Steps
+- https://gl.wikipedia.org/wiki/The_Thirty-nine_Steps_(novela)
+- https://tr.wikipedia.org/wiki/Otuz_Dokuz_Basamak_(roman)
