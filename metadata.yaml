@@ -1,5 +1,8 @@
 _repo: The-Thirty-Nine-Steps_558
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Buchan, John
@@ -18,6 +21,8 @@ description: "The Thirty-Nine Steps is an adventure novel by the Scottish author
   \ notably: Alfred Hitchcock's 1935 version; a 1959 colour remake; a 1978 version\
   \ which is perhaps most faithful to the novel; and a 2008 version for British television.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/558#The-Thirty-Nine-Steps
 gutenberg_bookshelf:
 - Mystery Fiction
 - Movie Books
